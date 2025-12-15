@@ -1,4 +1,4 @@
-                                                                    🌐 Personal Portfolio Website
+                                                         🌐 Personal Portfolio Website
 ## 📌 Description
 - Personal portfolio website built using HTML, CSS, and JavaScript  
 - Designed for a fresher to showcase learning journey  
